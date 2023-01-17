@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+thead{
+	background-color: darksalmon;
+}
+tbody{
+	background-color: burlywood;
+}
